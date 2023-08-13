@@ -1,1 +1,14 @@
 /* your code */
+
+table{
+	width:90vw;
+	height:40vh;
+	text-align:center;
+	border:1px solid grey;
+	border-radius:5px
+}
+
+body{
+	margin:0;
+	padding:0;
+}
